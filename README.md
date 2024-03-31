@@ -1,1 +1,1 @@
-app/* linguist-documentation=false
+Un jeu de cartes en réseau en C, combinant joueurs humains et IA pour une compétition stratégique. Maîtrisé sockets réseau et multithreading pour une gestion fluide du jeu. Géré programmation système, projet, et résolution de problèmes dans un contexte ludique. Acquis expertise en développement logiciel et communication réseau.
