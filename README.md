@@ -1,1 +1,1 @@
-.gitattributes
+app/* linguist-documentation=false
